@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+
+.flexbox{
+	display: flex;
+	justify-content: space-around;
+	font-size: 40px;
+	
+}
+
+.div{
+	width: 100px;
+	height: 100px;
+	
+}
+
+.d-1{
+	background-color: green;
+}
+
+.d-2{
+	background-color: red;
+}
+
+.d-3{
+	background-color: blue;
+}
